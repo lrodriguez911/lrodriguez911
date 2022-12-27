@@ -86,6 +86,9 @@ I am Lucas Rodriguez and i am full stack developer.
 </a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrodriguez911&layout=compact)](https://github.com/lrodriguez911)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrodriguez911)](https://github.com/lrodriguez911)
 <!--
 **lrodriguez911/lrodriguez911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
