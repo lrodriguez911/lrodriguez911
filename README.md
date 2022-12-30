@@ -30,6 +30,9 @@ I am Lucas Rodriguez and i am full stack developer.
 <a href="https://kubernetes.io/">
   <img src="https://skillicons.dev/icons?i=kubernetes" />
 </a>
+<a href="https://www.docker.com/">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
 <a href="https://getbootstrap.com/">
   <img src="https://skillicons.dev/icons?i=bootstrap" />
 </a>
